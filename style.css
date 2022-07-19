@@ -1,0 +1,110 @@
+body{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.portada {
+   z-index:-1 ;
+}
+
+.texto1 {
+    position:absolute;
+    top: 20%;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+     background-color: rgba(254, 255, 251, 0.993); 
+    height: 10%;
+    width: 100%;
+    text-align: center;
+
+}
+
+.texto2 {
+    position: absolute;
+    top: 35%;
+     background-color: rgb(246, 248, 238); 
+    height: 10%;
+    width: 100%;
+    text-align: center;
+}
+.circulo1{
+    border-radius: 200px;
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    left: 70%;
+}
+
+.titulo{
+    position: absolute;
+   left: 15%;
+   top: 100%;
+}
+
+ .parrafo{
+    position: absolute;
+    left: 15%;
+    top: 110%;
+    width: 55%;
+    font-size: 16px;
+ }
+ .circulo2 {
+    border-radius: 200px;
+    width: 210px;
+    height: 210px;
+    position: relative;
+    left: 25px;
+}
+
+.titulo-dos {
+    position: absolute;
+    right: 300px;
+    top: 160%;
+    width: 45%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.parrafo-dos {
+    position: absolute;
+    right: 250px;
+    top: 170%;
+    width: 55%;
+    text-align: center;
+    font-size: 16px;
+}
+.portfolio {
+
+    position: absolute;
+    left: 200px;
+
+}
+
+.parrafo-tres {
+    position: absolute;
+    left: 200px;
+    width: 800px;
+    top:215%;
+
+}
+
+
+.card-group {
+    margin: 10%;
+    position: absolute;
+    top:1180px ;
+}
+.card{
+    height: 115px;
+}
+
+.titulo-cuatro{
+    position: absolute;
+    left: 200px;
+}
+
+.parrafo-cuatro{
+    position: absolute;
+    left: 200px;
+    width: 800px;
+    top: 1850px;
+}
